@@ -13,7 +13,7 @@ namespace Программа_весокосный_год__форма__3_
             n = int.Parse(textBox1.Text);
             t = (n % 4);
             if (t == 0)
-                textBox1.Text = "Ура! Год високосный";
+                textBox1.Text = "Ееееееееееее Год високосный!";
             else
                 textBox1.Text = "Год не високосный :(";
         }
